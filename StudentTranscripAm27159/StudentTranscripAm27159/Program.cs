@@ -16,7 +16,7 @@ namespace StudentTranscripAm27159
             while (true)
             {
                 string courseName;
-                Console.WriteLine("Please enter course name or  type '0' to continue!");
+                Console.WriteLine("Please enter course name or  type 'x' to continue!");
                 courseName = Console.ReadLine();
                 if (courseName == "0")
                 {
